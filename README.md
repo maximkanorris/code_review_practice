@@ -8,4 +8,5 @@ def calc_disc(price,age): #тут бы описание функции
   #не обрабатывает случай когда возрат равен 18
 p=1000 #плохое имя переменной и маг число
 a=int(input(""))
-final_price=
+final_price=calc_disc(p,a)
+print("Итоговая сумма: "+str())
