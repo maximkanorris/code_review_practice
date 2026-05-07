@@ -9,4 +9,4 @@ def calc_disc(price,age): #тут бы описание функции
 p=1000 #плохое имя переменной и маг число
 a=int(input(""))
 final_price=calc_disc(p,a)
-print("Итоговая сумма: "+str())
+print("Итоговая сумма: "+str(final_price))
